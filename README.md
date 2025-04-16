@@ -1,6 +1,6 @@
 # FinX - Modern Finance Platform
 
-FinX is a cutting-edge personal finance application with an integrated AI assistant. It helps users manage their finances, track spending, set savings goals, and get personalized financial advice with beautiful animations and visual effects.
+FinX is a personal finance application with an integrated AI assistant. It helps users manage their finances, track spending, set savings goals, and get personalized financial advice with beautiful animations and visual effects.
 
 ## Features
 
